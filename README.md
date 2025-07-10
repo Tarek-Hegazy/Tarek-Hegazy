@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 56px; font-weight: bold;">
-  Hello There 👋, I'm Tarek Hegazy
+  ## Hello There 👋, I'm Tarek Hegazy
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
