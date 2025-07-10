@@ -57,6 +57,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=flutter" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=firebase" width="50" style="margin: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=openai" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin: 10px;" />
 </div>
