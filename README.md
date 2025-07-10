@@ -1,9 +1,14 @@
-<h1 align="center">Hello There 👋, I'm Tarek Hegazy</h1>
+<div align="center" style="font-size: 32px; font-weight: bold;">
+  Hello There 👋, I'm Tarek Hegazy
+</div>
 
-<h2 align="center">
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Native+Developer;Flutter+Developer;ITI+Internship+Graduate;Clean+Code+Enthusiast" alt="Typing SVG" />
-</h2>
+</div>
 
+<br/>
 
 <p align="center">
   <a href="mailto:tarek95506@gmail.com">
@@ -21,6 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tarek-Hegazy&label=Profile%20views&color=6c5ce7&style=flat" alt="profile views" />
 </p>
 
+---
 
 ### 💡 About Me
 
@@ -32,10 +38,9 @@
 
 ---
 
-
 ### 🚀 My Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="max-width: 700px; margin: auto; display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin: 10px;" />
@@ -51,7 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="margin: 10px;" />
 </div>
-
 
 ---
 
