@@ -67,6 +67,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+👋;Happy+Coding+💻" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </p>
 
