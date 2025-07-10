@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 36px; font-weight: bold;">
+<p align="center" style="font-size: 56px; font-weight: bold;">
   Hello There 👋, I'm Tarek Hegazy
 </p>
 
