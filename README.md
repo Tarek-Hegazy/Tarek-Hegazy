@@ -9,6 +9,10 @@
 <br/>
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://wa.me/201021320018" style="display: inline-block;" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
   <a href="mailto:tarek95506@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -20,11 +24,10 @@
   </a>
 </div>
 
-<div>
+<br/>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Tarek-Hegazy&label=Profile%20views&color=6c5ce7&style=flat" alt="profile views" />
   </p>
-</div>
 
 ---
 
