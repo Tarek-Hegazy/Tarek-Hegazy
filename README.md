@@ -20,9 +20,11 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tarek-Hegazy&label=Profile%20views&color=6c5ce7&style=flat" alt="profile views" />
-</p>
+<div>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Tarek-Hegazy&label=Profile%20views&color=6c5ce7&style=flat" alt="profile views" />
+  </p>
+</div>
 
 ---
 
