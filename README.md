@@ -36,30 +36,31 @@
 
 <div align="center" style="max-width: 800px; margin: auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <!-- Core Frontend -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin: 10px;" />
-    <!-- Frameworks -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" style="margin: 10px;" />
+<!-- My Tech Stack using skillicons.dev - مفصلة أيقونة أيقونة -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Core Frontend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" style="margin: 10px;" />
+</div>
 
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" style="margin: 10px;" />
-    <!-- Backend & Tools -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="margin: 10px;" />
-  </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 10px;">
+  <!-- Cross-platform & Tools -->
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=dart" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=openai" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin: 10px;" />
+</div>
+
 
 </div>
 
