@@ -1,12 +1,9 @@
-<h1 align="center">Hello There 👋, I'm Tarek Hegazy</h1>
+<h2 align="center">Hello There 👋, I'm Tarek Hegazy</h2>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Native+Developer;Flutter+Lover;ITI+Internship+Graduate;Clean+Code+Enthusiast" alt="Typing SVG" />
 </h3>
 
----
-
-### 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:tarek95506@gmail.com">
@@ -24,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tarek-Hegazy&label=Profile%20views&color=6c5ce7&style=flat" alt="profile views" />
 </p>
 
----
+
 ### 💡 About Me
 
 🎓 I’ve completed a professional internship at **Information Technology Institute (ITI)**  
