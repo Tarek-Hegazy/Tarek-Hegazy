@@ -25,7 +25,7 @@
 ### 💡 About Me
 
 🎓 I’ve completed a professional internship at **Information Technology Institute (ITI)**  
-🧑‍💻 I studied and built projects in the **Frontend Development Track**  
+🧑‍💻 I studied and built projects in the **Frontend and Cross Platform Track**  
 💪 I’ve worked with: **React, React Native, Redux Toolkit, Flutter, Dart, Firebase, MUI, Node.js, PWA, and JS packaging tools**  
 🎮 I'm also a weekend gamer  
 📫 Reach me on: **tarek95506@gmail.com**
