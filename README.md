@@ -1,7 +1,7 @@
 <h2 align="center">Hello There 👋, I'm Tarek Hegazy</h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Native+Developer;Flutter+Lover;ITI+Internship+Graduate;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Native+Developer;Flutter+Developer;ITI+Internship+Graduate;Clean+Code+Enthusiast" alt="Typing SVG" />
 </h3>
 
 
