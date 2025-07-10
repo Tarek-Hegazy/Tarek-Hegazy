@@ -44,20 +44,20 @@
   <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=js" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=redux" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=dart" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin: 10px;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 10px;">
   <!-- Cross-platform & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=flutter" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=dart" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=firebase" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=openai" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin: 10px;" />
   <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin: 10px;" />
 </div>
 
