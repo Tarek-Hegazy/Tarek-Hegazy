@@ -1,6 +1,6 @@
-<div align="center" style="font-size: 36px; font-weight: bold; margin-bottom: 10px;">
+<p align="center" style="font-size: 36px; font-weight: bold;">
   Hello There 👋, I'm Tarek Hegazy
-</div>
+</p>
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Native+Developer;Flutter+Developer;ITI+Internship+Graduate;Clean+Code+Enthusiast" alt="Typing SVG" />
